@@ -1,0 +1,18 @@
+{
+    "header": {
+        "googleReviews": "Our clients' reviews on Google"
+    },
+    "buttons": {
+        "view": "View",
+        "write": "Write"
+    },
+    "modal": {
+        "header": "Modal Window",
+        "body": "This is the content of the modal window. You can change the text.",
+        "close": "Close"
+    },
+    "loading": "loading...",
+    "reviews": {
+        "count": "{count} reviews"
+    }
+}
