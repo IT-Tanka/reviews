@@ -1,5 +1,37 @@
-# Vue 3 + TypeScript + Vite
+# Front-End Developer Test Task (Vue.js)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a test task for building a responsive SPA using Vue.js, TypeScript, and external API integration.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Features
+
+- **Responsive Component**: Built according to the provided design.
+- **API Integration**: Fetches rating and review count data from a free API (MockAPI).
+- **Buttons**:
+  - Button 1: Redirects to an external link (Google).
+  - Button 2: Custom functionality ( modal).
+- **Internationalization**: Language switcher between Ukrainian and English.
+
+## Technologies
+
+- **Vue 3**
+- **Vite**
+- **TypeScript**
+- **CSS**
+
+## Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run the app:
+   ```bash
+   npm run dev
+   
+4.  Open http://localhost:3000 in your browser.
+
+
+
